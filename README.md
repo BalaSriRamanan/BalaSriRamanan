@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bala Sri Ramanan</h1>
-<h3 align="center">java Developer with superior knowledge in web devlopment. Also interested in API projects.</h3>
+<h3 align="center">python Developer with superior knowledge in data science and machine learning. Also interested in API </h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **POWER BI**
 
-- 💬 Ask me about **java and javaSscript**
+- 💬 Ask me about **Market analysis and python (data sciecne)**
 
 - 📫 How to reach me **balasriramanan@gmail.com**
 
